@@ -10,7 +10,7 @@
 #ifndef NVIC_CFG_H_
 #define NVIC_CFG_H_
 
-#include "../Mcal/Inc/InCtrl.h"
+#include "InCtrl.h"
 
 /**********************************************************************************************************************
  * INCLUDES

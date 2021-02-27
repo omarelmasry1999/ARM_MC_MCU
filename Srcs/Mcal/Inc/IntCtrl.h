@@ -9,11 +9,11 @@
 #ifndef INTCTRL_H
 #define INTCTRL_H
 
-#include"../../Common/Platform_Types.h"
-#include"../../Common/Std_Types.h"
+#include"Platform_Types.h"
+#include"Std_Types.h"
 #include"IntCtrl_Types.h"
-#include"../../Config/IntCtrl_Cfg.h"
-#include"../../Common/Mcu_Hw.h"
+#include"IntCtrl_Cfg.h"
+#include"Mcu_Hw.h"
 
 
 #define CPU_DISABLE_ALL_Interupts()		__asm ("CPSID i")

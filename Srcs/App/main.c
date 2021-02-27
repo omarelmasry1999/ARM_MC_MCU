@@ -1,4 +1,4 @@
-#include"../Mcal/Inc/IntCtrl.h"
+#include"IntCtrl.h"
 
 void main(void)
 {
